@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  artist: 
+  title: 
+  bpm: 
+  key: MyString
+
+two:
+  artist: 
+  title: 
+  bpm: 
+  key: MyString
